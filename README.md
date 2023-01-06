@@ -15,7 +15,7 @@ This is a solution to the Interactive card detail page Quiz 2 challenge
 ### Links
 
 - Solution URL: (https://github.com/priscillabigaill/interactive-card-details-form)
-- Live Site URL: [https://your-live-site-url.com](https://priscillabigaill.github.io/interactive-card-details-form/)
+- Live Site URL: (https://priscillabigaill.github.io/interactive-card-details-form/)
 
 ## My process
 
